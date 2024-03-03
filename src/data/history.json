@@ -1,0 +1,19 @@
+[
+  {
+    "role": "ReactJs Developer",
+    "organisation": "Agnito Technologies Pvt.Ltd Bhopal",
+    "startDate": "Dec, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on multiple projects shown downl below", "Designed website pages in ReactJs"],
+    "imageSrc": "history/agnito.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Avyaan Bhopal",
+    "startDate": "Jan, 2023",
+    "endDate": "Apr, 2023",
+    "experiences": ["Worked on voice Assistent ", "Designed the themed website pages "],
+    "imageSrc": "history/avyaan.png"
+  }
+  
+]

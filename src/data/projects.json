@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ReactJs Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Weather forcasting web app, That shows current and 6 days of weather forcast according to your location.",
+    "skills": ["React", "Tailwindcss", "WeatherApi"],
+    "demo": "https://mousamweather.netlify.app/",
+    "source": "https://github.com/vikash9669/weatherApp"
+  },
+  {
+    "title": "ReactJs Chat App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Reactjs app that allows user to register and login along with chat with other users in realtime.",
+    "skills": ["ReactJs", "Express", "Node","SocketIO","MongoDb","Tailwindcss"],
+    "demo": "https://texty-weld.vercel.app/",
+    "source": "https://github.com/vikash9669/texty"
+  },
+  {
+    "title": "ReactJs LinkShortner App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Link Shortener app that shorts the larger links which can we use in our social network and documents",
+    "skills": ["ReactJs", "Bitly Api", "Tailwindcss"],
+    "demo": "https://linkshortner-eosin.vercel.app/",
+    "source": "https://github.com/vikash9669/linkshortner"
+  }
+]
