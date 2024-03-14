@@ -1,6 +1,5 @@
 import React from "react";
-import Resume from './Resume-Vikash.pdf'
-import { Link } from "react-router-dom";
+import Resume from './Vikash_Resume2024.pdf'
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -20,7 +19,7 @@ export const Hero = () => {
         <a
             className={styles.downloadBtn}
             href={Resume}
-            download="Resume-Vikash"
+            download="Vikash_Resume"
             target="_blank"
             rel="noreferrer"
           >

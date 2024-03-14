@@ -1,11 +1,19 @@
 [
+  
   {
     "title": "ReactJs Weather App",
     "imageSrc": "projects/mousamweather.jpg",
     "description": "This is a Weather forcasting web app, That shows current and 6 days of weather forcast according to your location.",
-    "skills": ["React", "Tailwindcss", "WeatherApi"],
+    "skills": ["React", "javaScript", "Tailwindcss", "WeatherApi"],
     "demo": "https://mousamweather.netlify.app/",
     "source": "https://github.com/vikash9669/weatherApp"
+  },{
+    "title": "ReactJs Recipe App",
+    "imageSrc": "projects/recipeimg.jpg",
+    "description": "Recipe app provide recipies of meals and vagitables, it provide categorie vice meals and has a search option for searching recipies. ",
+    "skills": ["ReactJs", "JavaScript", "MealDb Api", "Tailwindcss", "ReduxToolkit"],
+    "demo": "https://recipe-app-alpha-ruby.vercel.app/",
+    "source": "https://github.com/vikash9669/RecipeApp"
   },
   {
     "title": "ReactJs Chat App",
@@ -16,10 +24,26 @@
     "source": "https://github.com/vikash9669/texty"
   },
   {
+    "title": "ReactJs TodoList App",
+    "imageSrc": "projects/todolist.jpg",
+    "description": "ReactJs TodoList App is a simple app to remind you of a list of todays tasks that you are going to do all day.",
+    "skills": ["ReactJs", "JavaScript", "Tailwindcss", "BootStrap"],
+    "demo": "https://linkshortner-eosin.vercel.app/",
+    "source": "https://github.com/vikash9669/linkshortner"
+  },
+  {
     "title": "ReactJs LinkShortner App",
     "imageSrc": "projects/LinkShortner.jpg",
-    "description": "This is a Link Shortener app that shorts the larger links which can we use in our social network and documents",
+    "description": "This is a Link Shortener app that shorts the larger links which can we use in our social network and documents.",
     "skills": ["ReactJs", "Bitly Api", "Tailwindcss"],
+    "demo": "https://linkshortner-eosin.vercel.app/",
+    "source": "https://github.com/vikash9669/linkshortner"
+  },
+  {
+    "title": "JavaScript Voice App",
+    "imageSrc": "projects/voiceassistant.jpg",
+    "description": "ReactJs TodoList App is a simple app to remind you of a list of todays tasks that you are going to do all day.",
+    "skills": ["JavaScript", "BootStrap","Html", "FaceJs","SpeakJs","WebCamJs"],
     "demo": "https://linkshortner-eosin.vercel.app/",
     "source": "https://github.com/vikash9669/linkshortner"
   }
